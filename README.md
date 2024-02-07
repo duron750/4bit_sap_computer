@@ -1,4 +1,4 @@
-# 4bit_sap_computer
+# 4bit SAP computer
 
 Very simple 4 bit computer created in LogicSim 3.8.
 It is based on Ben Eater's Youtube videos and Digital Computer Electronics book by Albert Paul Malvino.
