@@ -1,6 +1,7 @@
 # 4bit_sap_computer
 
-Very simple 4 bit computer created in LogicSim 3.8.
+
+4 bit computer Simple As Possible, created in LogicSim 3.8.
 It is based on Ben Eater's Youtube videos and Digital Computer Electronics book by Albert Paul Malvino.
 
 The processor has a 4 bit databus and 8-bit address bus. It has 2 registers (accumulator and B register) and 2 other registers which cannot be used directly (H and L register). H and L registers are used only to address the memory. The procesor has a big endian architecture, however this can be easily changed by reversing H and L registers. I choosed big endian because it's easier to understand and use. 
